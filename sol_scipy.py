@@ -1,3 +1,6 @@
+#
+# sol_scipy.py : particle tracking in a solenoid
+#                   code by Kei F.
 from numpy import *
 from scipy.integrate import *
 from scipy.optimize import *
