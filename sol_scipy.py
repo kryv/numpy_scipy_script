@@ -18,7 +18,7 @@ gmm  = qc*en/(ms*cl**2.0)+1
 vz0   = cl*sqrt(1-1/gmm**2.0)
 #bz0  = 1.8184449309034985 #edge
 bz0  = 1.7647058823529411 #center
-bfac = 0.0
+bfac = 1.0
 twpi = 2.0*pi
 
 def brf(th,r,z):
